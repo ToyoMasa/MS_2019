@@ -2,15 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.22",
 	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "Niagara",
-			"Enabled": true
-		},
-		{
-			"Name": "NiagaraExtras",
-			"Enabled": true
-		}
-	]
+	"Description": ""
 }
